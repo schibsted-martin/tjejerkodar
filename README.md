@@ -12,12 +12,12 @@ A simple website (hosted on github) example
   <img alt="Create repository (2)" src="https://i.imgur.com/eFKro4M.png?1" width="50%"/>
 - **Turn on _GitHub Pages_ for your repository**  
   Click on the _Settings_ tab and scroll down to the _GitHub Pages_ heading. Select _master branch_ as the _Source_ and click _Save_.  
-  <img alt="Enable GitHub Pages" src="https://i.imgur.com/q5ufpaZ.png?1" width="50%"/>
+  <img alt="Enable GitHub Pages" src="https://i.imgur.com/q5ufpaZ.png" width="50%"/>
   
   > For this example this will suffice; for more complex projects, a separate branch would be better in order to separate source code from generated code.  
 - **Test your website**  
   When you complete the previous step you will be presented with the _URL_ to your website, click it to verify that it works.   
-  <img alt="Enable GitHub Pages" src="https://i.imgur.com/AqIL7hw.png?1" width="50%"/>
+  <img alt="Enable GitHub Pages" src="https://i.imgur.com/AqIL7hw.png" width="50%"/>
   
   > The _URL_ of the website will be `http(s)://<your github account name>.github.io/<your repository name>/`, but this can be changed using the _Custom domain_ option. Or; you will want to look into a more traditional hosting solution, this is more to get something fast up that you can test and share with a smaller set of people.  
 
